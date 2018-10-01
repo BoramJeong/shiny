@@ -1,2 +1,3 @@
-# shiny
-shiny project about option and stock 
+# shiny project 
+Project about option and stock.
+Get your optimal portfolio.
